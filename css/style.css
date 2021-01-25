@@ -1373,6 +1373,12 @@ input[type="text"] {
     -o-transform: translateX(400%) scale(1.5);
 }
 }
+.btn:hover, .btn:focus, .btn.focus{
+  color: #fff;
+}
+#fh5co-header .display-tc .fh5co-social-icons li a i, .fh5co-cover .display-tc .fh5co-social-icons li a i{
+  font-size: 26px;
+}
 .social, .download-link{
   position: relative;
   margin: 10;
@@ -1382,8 +1388,8 @@ input[type="text"] {
 }
 .social li a, .download-link a{
   position: relative;
-  width: 70px;
-  height: 70px;
+  width: 55px;
+  height: 55px;
   display: flex;
   justify-content: center;
   align-items: center;
