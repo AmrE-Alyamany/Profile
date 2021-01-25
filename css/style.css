@@ -1303,7 +1303,7 @@ input[type="text"] {
 .cloud1{
   position: absolute;
   max-width: 350px;
-  top: 0;
+  top: -30px;
   left: 0;
   z-index: 10000;
   animation: animateCloud 50s linear infinite;
@@ -1312,7 +1312,7 @@ input[type="text"] {
 .cloud2{
   position: absolute;
   max-width: 400px;
-  top: 0;
+  top: -20px;
   left: 0;
   z-index: 10000;
   animation: animateCloud 35s linear infinite;
@@ -1329,8 +1329,8 @@ input[type="text"] {
 }
 .cloud4{
   position: absolute;
-  max-width: 250px;
-  top: 200px;
+  max-width: 450px;
+  top: 0px;
   left: 0;
   z-index: 10000;
   animation-delay: -20s;
@@ -1340,7 +1340,7 @@ input[type="text"] {
 .cloud5{
   position: absolute;
   max-width: 350px;
-  top: 150px;
+  top: -20px;
   left: 0;
   z-index: 10000;
   animation-delay: -5s;
@@ -1350,7 +1350,7 @@ input[type="text"] {
 .cloud6{
   position: absolute;
   max-width: 400px;
-  top: 75px;
+  top: -50px;
   left: 0;
   z-index: 10000;
   animation-delay: -10s;
